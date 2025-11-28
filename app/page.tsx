@@ -116,14 +116,14 @@ export default function Home() {
         </div>
         <div className="bg-[#181818] p-4 rounded-md mb-4">
           <p className="font-semibold mb-1">Create your first playlist</p>
-          <p className="text-xs text-gray-400 mb-2">It's easy, we'll help you</p>
+          <p className="text-xs text-gray-400 mb-2">Its easy, well help you</p>
           <button className="bg-white text-black rounded-full px-3 py-1 text-xs font-semibold hover:bg-gray-200 transition">
             Create playlist
           </button>
         </div>
         <div className="bg-[#181818] p-4 rounded-md mb-4">
-          <p className="font-semibold mb-1">Let's find some podcasts to follow</p>
-          <p className="text-xs text-gray-400 mb-2">We'll keep you updated on new episodes</p>
+          <p className="font-semibold mb-1">Lets find some podcasts to follow</p>
+          <p className="text-xs text-gray-400 mb-2">Well keep you updated on new episodes</p>
           <button className="bg-white text-black rounded-full px-3 py-1 text-xs font-semibold hover:bg-gray-200 transition">
             Browse podcasts
           </button>
@@ -333,7 +333,7 @@ export default function Home() {
                 height={150}
                 className="rounded-md"
               />
-              <p className="mt-2 font-semibold text-white">You'll Be In My Heart</p>
+              <p className="mt-2 font-semibold text-white">Youll Be In My Heart</p>
               <p className="text-sm text-gray-400">NIKI</p>
             </div>
             <div className="flex flex-col min-w-[150px] cursor-pointer hover:bg-[#282828] rounded-md p-2">
